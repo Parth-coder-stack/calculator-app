@@ -1,12 +1,13 @@
-#Simple calculator-app
-This is a basic calculator app written in python.It performs:
+# 🧮 Simple Calculator App
 
--Addition
--Subtraction
--Multiplication
--Dividion
+This is a basic calculator app written in Python. It performs:
 
-##How to run
+- Addition
+- Subtraction
+- Multiplication
+- Division
 
-'''bash
-python Calculator.py
+## 🚀 How to Run
+
+```bash
+python calculator.py
